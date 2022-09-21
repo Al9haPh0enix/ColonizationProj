@@ -94,3 +94,10 @@
     
     font-family: 'Source Code Pro', monospace;
 }
+
+#madeBy {
+    top:2.5%;
+    left:2.5%;
+    
+    font-size: 2vw;
+}
